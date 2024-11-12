@@ -1,0 +1,4 @@
+/home/kate/Desktop/glue/SuperGluePretrainedNetwork/assets/my/lake.png /home/kate/Desktop/glue/SuperGluePretrainedNetwork/assets/my/lake1.png
+/home/kate/Desktop/glue/SuperGluePretrainedNetwork/assets/my/500M.jpg /home/kate/Desktop/glue/SuperGluePretrainedNetwork/assets/my/small_satelite.jpg
+/home/kate/Desktop/glue/SuperGluePretrainedNetwork/assets/my/small_satelite.jpg /home/kate/Desktop/glue/SuperGluePretrainedNetwork/assets/my/500M.jpg
+/home/kate/Desktop/glue/SuperGluePretrainedNetwork/assets/my/small2.png /home/kate/Desktop/glue/SuperGluePretrainedNetwork/assets/my/500M.jpg
